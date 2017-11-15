@@ -12,3 +12,7 @@ site-content
 /.classpath
 /.project
 /.settings/
+
+
+*.idea
+*.iml
